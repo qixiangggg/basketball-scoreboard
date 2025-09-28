@@ -1,5 +1,5 @@
-let homeScore = document.getElementById("home-score")
-let guestScore = document.getElementById("guest-score")
+let homeScore = document.querySelector("#home-score")
+let guestScore = document.querySelector("#guest-score")
 let homeScoreCounter = 0
 let guestScoreCounter = 0
 
